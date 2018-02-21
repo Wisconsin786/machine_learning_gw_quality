@@ -1,0 +1,21 @@
+---
+title: "Research Log"
+output: html_notebook
+author: Rich Pauloo & Aakash Ahamed
+---
+
+I like to use R notebooks to keep a quick log of activities. You can see an example of a live notebook I've working on [here](https://github.com/richpauloo/kings-river-fan-tprogs/blob/master/documentation/README.Rmd). Keeping a joint research log is great for:  
+
+* Aesthetics:  
+    + markdown syntax, which we're familiar with  
+    + easily renders into a nice PDF, and visible on github  
+    
+* Reproducibility:  
+    + again, it's nice for people wondering how we spent our time  
+  
+* Staying Focused:  
+    + writing down everything helps us quickly diagnose problems arise because we have a record of activities  
+    
+  
+We can delete this once we're on the same page, and start using it when we work on this down the line.  
+
