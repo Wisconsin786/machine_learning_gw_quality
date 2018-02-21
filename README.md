@@ -15,6 +15,7 @@ Machine learning approaches (boosted tree regression models & Neural Nets) are c
 Use:  
 
 * geology (USGS - Rich)  
+	+ or perhaps what is mined this summer from the DWR well completion reports  
 * socioeconomic data, i.e.- county/tract level Median AGI ([tidycensus](https://walkerke.github.io/tidycensus/articles/spatial-data.html) - Rich)   
 * land use  
 
