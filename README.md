@@ -19,9 +19,9 @@ Use:
 * socioeconomic data, i.e.- county/tract level Median AGI ([tidycensus](https://walkerke.github.io/tidycensus/articles/spatial-data.html) - Rich)   
 * land use  
 
-* Satellite data:  
-	+ crop production/NDVI (satellite data - Aakash) 
-	+ precipitation (satellite data - Akash)
+* Satellite data (Aakash):  
+	+ crop production/NDVI  
+	+ precipitation  
 		+ more precip might flush out contaminants from shallow gw
 
 		
