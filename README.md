@@ -15,10 +15,12 @@ Machine learning approaches (boosted tree regression models & Neural Nets) are c
 Use:  
 
 * geology (USGS - Rich)  
-* socioeconomic data, i.e.- county/tract level Median AGI ([tidycensus](https://walkerke.github.io/tidycensus/articles/spatial-data.html) - Rich)  
-* crop production/NDVI (satellite data - Aakash)  
+* socioeconomic data, i.e.- county/tract level Median AGI ([tidycensus](https://walkerke.github.io/tidycensus/articles/spatial-data.html) - Rich)   
 * land use  
-* precipitation (satellite data - Akash)
+
+* Satellite data:  
+	+ crop production/NDVI (satellite data - Aakash) 
+	+ precipitation (satellite data - Akash)
 		+ more precip might flush out contaminants from shallow gw
 
 		
