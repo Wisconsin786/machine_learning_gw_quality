@@ -19,3 +19,6 @@ I like to use R notebooks to keep a quick log of activities. You can see an exam
   
 We can delete this once we're on the same page, and start using it when we work on this down the line.  
 
+* Feb 29 - March 1, 2018* 
+* Push precipitation retrieval notebook to repo
+* TODO: build scripts for python libs
